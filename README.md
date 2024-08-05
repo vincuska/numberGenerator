@@ -1,5 +1,5 @@
 # Number Generator
-Generates a give every number with the given length into a file.
+Generates every number with the given length into a file.
 
 ## Features
 
